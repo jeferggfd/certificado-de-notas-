@@ -1,17 +1,3 @@
-id;estudiante;sexo;seccion;promedio;asistencia
-E01;Ana;Mujer;A;6.30;95
-E02;Luis;Hombre;A;5.60;88
-E03;Sofía;Mujer;A;4.10;72
-E04;Diego;Hombre;B;3.10;60
-E05;Marta;Mujer;B;4.80;90
-E06;Pedro;Hombre;B;6.10;96
-E07;Carla;Mujer;C;5.60;82
-E08;Juan;Hombre;C;3.50;68
-E09;Lucía;Mujer;C;6.60;98
-E10;Andrés;Hombre;D;4.20;78
-E11;Camila;Mujer;D;4.80;85
-E12;Tomás;Hombre;D;6.30;92
-
 import matplotlib.pyplot as plt
 import pandas as pd
 import streamlit as st
